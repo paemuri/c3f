@@ -18,7 +18,7 @@ export default () => {
       <View style={styles.line} />
       <View style={styles.div}>
         <Text style={styles.text}>
-          Este aplicativo foi desenvolvido por <Link style={styles.link} href='https://paemuri.com'>Rafael Escobar</Link> e seu código está disponível em domínio público no <Link style={styles.link} href='https://github.com/paemuri/c3f'>Github</Link>.
+          Este aplicativo foi desenvolvido por <Link style={styles.link} href='https://paemuri.com'>Rafael Escobar</Link> e seu código está disponível em domínio público no <Link style={styles.link} href='https://git.sr.ht/~paemuri/c3f'>sourcehut</Link>.
         </Text>
       </View>
       <View style={styles.line} />
